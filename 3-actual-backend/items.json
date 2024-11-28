@@ -1,0 +1,116 @@
+{
+  "items": [
+    [
+      {
+        "id": "001",
+        "image": "images/image1.jfif",
+        "video":"images/video_2.mp4",
+        "company": "Taj Lake Palace, Udaipur",
+        "item_name": "Famous for its royal ambiance.",
+        "original_price": 1045,
+        "totalRent": 606,
+        "discount_percentage": "FREE CANCELLATION",
+        "propety":"Free Parking & Wifi Facility",
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.5, "count": 1400 }
+      },
+      {
+        "id": "002",
+        "image": "images/image2.jfif",
+        "video":"images/video_1.mp4",
+        "company": "The Oberoi Amarvilas, Agra",
+        "item_name": "Indian culture and modern luxury.",
+        "original_price": 2599,
+        "totalRent": 1507,
+        "discount_percentage": "FREE CANCELLATION",
+        "propety":"Free Parking & Wifi Facility",
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.3, "count": 24 }
+      },
+      {
+        "id": "003",
+        "image": "images/image3.jfif",
+        "video":"images/video_3.mp4",
+        "company": "The Leela Palace, New Delhi",
+        "item_name": "A luxury hotel, often called the Jewel of Jaipur.",
+        "original_price": 1599,
+        "totalRent": 495,
+        "discount_percentage": "FREE CANCELLATION",
+        "propety":"Free Parking & Wifi Facility",
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.1, "count": 249 }
+      },
+      {
+        "id": "004",
+        "image": "images/image4.jfif",
+        "video":"images/video_4.mp4",
+        "company": "The Rambagh Palace, Jaipur",
+        "item_name": "Famous for its tranquil setting and world-class.",
+        "original_price": 999,
+        "totalRent": 999,
+        "discount_percentage": "FREE CANCELLATION",
+        "propety":"Free Parking & Wifi Facility",
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 5, "count": 10 }
+      },
+      {
+        "id": "005",
+        "image": "images/image5.jfif",
+        "video":"images/video_5.mp4",
+        "company": "The Oberoi Udaivilas, Udaipur",
+        "item_name": "A historic hotel overlooking the Gateway of India.",
+        "original_price": 1399,
+        "totalRent": 489,
+        "discount_percentage": "FREE CANCELLATION",
+        "propety":"Free Parking & Wifi Facility",
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.2, "count": 3500 }
+      },
+      {
+        "id": "006",
+        "image": "images/imagedom.jfif",
+        "video":"images/video_6.mp4",
+        "company": "The Taj Mahal Palace, Mumbai",
+        "item_name": "A regal property offering a unique blend of wellness.",
+        "original_price": 14995,
+        "totalRent": 14995,
+        "discount_percentage": "FREE CANCELLATION",
+        "propety":"Free Parking & Wifi Facility",
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 0, "count": 0 }
+      },
+      {
+        "id": "007",
+        "image": "images/image7.jfif",
+        "video":"images/video_7.mp4",
+        "company": "ITC Grand Bharat, Gurgaon",
+        "item_name": "An eco-luxury resort set amidst coffee plantations.",
+        "original_price": 1599,
+        "totalRent": 639,
+        "discount_percentage": "FREE CANCELLATION",
+        "propety":"Free Parking & Wifi Facility",
+        "rating": { "stars": 4.2, "count": 388 }
+      },
+      {
+        "id": "008",
+        "image": "images/image8.jfif",
+        "video":"images/video_8.mp4",
+        "company": "Evolve Back, Coorg",
+        "item_name": "An eco-luxury resort set amidst coffee plantations.",
+        "original_price": 285,
+        "totalRent": 142,
+        "discount_percentage": "FREE CANCELLATION",
+        "propety":"Free Parking & Wifi Facility",
+        "return_period": 14,
+        "delivery_date": "10 Oct 2023",
+        "rating": { "stars": 4.2, "count": 5200 }
+      }
+    ]
+  ]
+}

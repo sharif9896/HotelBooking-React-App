@@ -1,0 +1,36 @@
+{
+    "slides":[
+        {
+            "src":"./images/mojiq.webp",
+            "alt":0
+        },
+        {
+            "src":"./images/moji2.jpg",
+            "alt":1
+        },
+        {
+            "src":"./images/moji4.jpg",
+            "alt":2
+        },
+        {
+            "src":"./images/mojie.jpg",
+            "alt":3
+        },
+        {
+            "src":"./images/mojih.jpg",
+            "alt":4
+        },
+        {
+            "src":"./images/moji5.jpg",
+            "alt":5
+        },
+        {
+            "src":"./images/moji7.jpg",
+            "alt":6
+        },
+        {
+            "src":"./images/moji8.jpg",
+            "alt":7
+        }
+    ]
+}
